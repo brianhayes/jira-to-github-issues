@@ -14,3 +14,5 @@ Let's start by saying this doesn't work more than it does work. So use with care
 6. Change the path in the .rb file as needed and run. 
 
 After all that work you should have some new issues created in your github repo. 
+
+*Credit: Adaped from here: [https://gist.github.com/2257596]*
